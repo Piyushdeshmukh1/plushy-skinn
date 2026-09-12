@@ -12,10 +12,10 @@ import type { HomeGalleryItem } from '@/lib/types'
 const EASE = 'ease-[cubic-bezier(0.16,1,0.3,1)]'
 
 const stats = [
-  { label: '100% vegan leather', detail: 'No animal hides, ever' },
-  { label: 'Solid-brass hardware', detail: 'Built to outlast the trend' },
-  { label: 'Carbon-neutral shipping', detail: 'Offset on every order' },
-  { label: 'Small-batch made', detail: 'Cut and stitched to order' },
+  { label: 'Cruelty-free materials', detail: 'No animal hides, ever' },
+  { label: 'Handcrafted in India', detail: 'Cut and stitched by hand' },
+  { label: 'Durable brass hardware', detail: 'Built to last for years' },
+  { label: 'Small-batch quality', detail: 'Made to order, checked by hand' },
 ]
 
 const process = [
